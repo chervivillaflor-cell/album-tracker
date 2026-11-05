@@ -2,7 +2,9 @@
 A React app to search albums, preview tracks, keep a personal listening log
 (status, rating, notes) and get LLM-powered recommendations based on your
 saved albums and ratings.
-![Screenshot](docs/screenshot.png)
+![Screenshot](docs/screenshot1.png)
+![Screenshot](docs/screenshot2.png)
+![Screenshot](docs/screenshot3.png)
 **Live:** https://album-tracker-weld.vercel.app/
 ## Features- Search albums and artists (iTunes Search API)- Album page with 30-second previews and a persistent mini player- Collection with status, 1-5 star rating, notes, filter and sort (saved in your browser)- Optional full-album playback through Deezer's embedded player- Recommendations from Google Gemini based on your saved albums and ratings
 ## Tech stack
